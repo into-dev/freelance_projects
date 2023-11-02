@@ -1,0 +1,4 @@
+app:
+  delay: 60
+bot:
+  token: <bot_token>
